@@ -4,3 +4,5 @@ numpy==1.25.2
 pandas==2.1.4
 seaborn==0.13.0
 streamlit==1.26.0
+
+url semuadata.csv => https://drive.google.com/file/d/1iFbxS6yye1685YmHHAEE7MiH5lxWfGKb/view?usp=sharing
